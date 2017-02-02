@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/candyfaceoriginal.jpg",
+        "source": "/home/gmasters/hackathon/candycv2/app/src/main/res/drawable/candyfaceoriginal.jpg"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/candycface2.png",
+        "source": "/home/gmasters/hackathon/candycv2/app/src/main/res/drawable/candycface2.png"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/candycface5.png",
+        "source": "/home/gmasters/hackathon/candycv2/app/src/main/res/drawable/candycface5.png"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/candycface4angry.png",
+        "source": "/home/gmasters/hackathon/candycv2/app/src/main/res/drawable/candycface4angry.png"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/candycface4glasses.png",
+        "source": "/home/gmasters/hackathon/candycv2/app/src/main/res/drawable/candycface4glasses.png"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/candycface4angryglasses.png",
+        "source": "/home/gmasters/hackathon/candycv2/app/src/main/res/drawable/candycface4angryglasses.png"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/candycface6.png",
+        "source": "/home/gmasters/hackathon/candycv2/app/src/main/res/drawable/candycface6.png"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/candycface0.png",
+        "source": "/home/gmasters/hackathon/candycv2/app/src/main/res/drawable/candycface0.png"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/candycface3.png",
+        "source": "/home/gmasters/hackathon/candycv2/app/src/main/res/drawable/candycface3.png"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/candycface4.png",
+        "source": "/home/gmasters/hackathon/candycv2/app/src/main/res/drawable/candycface4.png"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/candycface1.png",
+        "source": "/home/gmasters/hackathon/candycv2/app/src/main/res/drawable/candycface1.png"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/candycfaceoriginalglasses.png",
+        "source": "/home/gmasters/hackathon/candycv2/app/src/main/res/drawable/candycfaceoriginalglasses.png"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/candycfaceangry.jpg",
+        "source": "/home/gmasters/hackathon/candycv2/app/src/main/res/drawable/candycfaceangry.jpg"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/candycaceangryglasses.jpg",
+        "source": "/home/gmasters/hackathon/candycv2/app/src/main/res/drawable/candycaceangryglasses.jpg"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_internal_bg.xml"
+    }
+]

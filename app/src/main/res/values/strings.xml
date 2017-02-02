@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">candyc</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_mute">Mute</string>
+    <string name="action_background">Background Activities</string>
+</resources>

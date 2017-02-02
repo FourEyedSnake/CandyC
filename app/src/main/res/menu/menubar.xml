@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_mute"
+        android:checkable="true"
+        android:orderInCategory="100"
+        android:title="@string/action_mute"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/t_drive"
+        android:orderInCategory="100"
+        android:title="T-DRIVE"
+        app:showAsAction="never"
+        android:onClick="tryTDrive"
+        />
+    <item
+        android:title="@string/action_background"
+        android:orderInCategory="100"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/backgroundNever"
+                android:title="Never" />
+            <item
+                android:id="@+id/backgroundTenSeconds"
+                android:title="Every ten seconds" />
+            <item
+                android:id="@+id/backgroundThirtySeconds"
+                android:title="Every 30 seconds" />
+            <item
+                android:id="@+id/backgroundSixtySeconds"
+                android:title="Every minute" />
+            <item
+                android:id="@+id/backgroundRandom"
+                android:title="Random" />
+        </menu>
+    </item>
+</menu>
