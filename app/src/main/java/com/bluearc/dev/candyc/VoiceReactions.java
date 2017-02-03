@@ -50,7 +50,7 @@ public class VoiceReactions {
         speechMap.put("candy", "bugger off");
         speechMap.put("andy", "get lost");
         speechMap.put("greg", "Urgh Greg is such a pain. I need a drink.");
-        speechMap.put("joke", "Want to hear a joke? This year's gip payout");
+        speechMap.put("joke", "Want to hear a joke? Greg's coding skills");
 
         moodMap.put(MOOD.HAPPY, happyList);
         moodMap.put(MOOD.GRUMPY, grumpyList);
@@ -64,7 +64,6 @@ public class VoiceReactions {
         happyList.add("Greg stop slacking");
         happyList.add("Ah good, Martin has come online. I can stop working now!");
         happyList.add("That isn't the behaviour I'd expect from an HDS employee");
-        happyList.add("The thing with Arsenal is they always try and walk it in");
         happyList.add("you what mate");
 
         grumpyList.add("do some work");
