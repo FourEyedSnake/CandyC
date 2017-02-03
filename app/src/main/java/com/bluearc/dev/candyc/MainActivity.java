@@ -157,10 +157,12 @@ public class MainActivity extends ActionBarActivity implements
                         @Override
                         public void run() {
                             if (angryFace) {
-                                candyImage.setImageResource(R.drawable.candycfaceangry);
-                            } else {
                                 candyImage.setImageResource(R.drawable.candyfaceoriginal);
+                                angryFace = false;
                             }
+                                //else {
+                                //candyImage.setImageResource(R.drawable.candycfaceangry);
+                            //}
                         }
                     });
                 }
@@ -237,9 +239,6 @@ public class MainActivity extends ActionBarActivity implements
     public void candycTouch() {
         saySomething("Don't touch me!", VoiceReactions.MOOD.ANGRY);
     }
-
-
-
 
 
     @SuppressWarnings("deprecation")
