@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
-    api-level="16"
-    density="ldpi"
+    abi="x86_64,x86,armeabi-v7a,armeabi,arm64-v8a"
+    api-level="22"
+    density="xhdpi"
     format="8"
-    plugin-version="2.2.1"
-    timestamp="185615077003957"
-    token="-2741856614913165496"
+    plugin-version="2.2.3"
+    timestamp="952352801369890"
+    token="-3612583941631751757"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="78" />
+        duration="1232" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="35" />
+        duration="72" />
     <task
         name="verifier"
-        duration="1" />
+        duration="8" />
 
     <artifact
-        location="/home/gmasters/hackathon/candycv2/app/build/outputs/apk/app-debug.apk"
+        location="C:\Users\crose\AndroidStudioProjects\CandyC\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="185615077003957"
+        timestamp="952352801369890"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/gmasters/hackathon/candycv2/app/build/outputs/apk/app-debug.apk"
+            location="C:\Users\crose\AndroidStudioProjects\CandyC\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

@@ -2,76 +2,76 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/home/gmasters/hackathon/candycv2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_b24e216f70ee6213baaeff881b9903cc33ac0578.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/gmasters/hackathon/candycv2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="8145de3c2fd68fab81489d537c7b96077684f2d2">
-        <dex dex="/home/gmasters/hackathon/candycv2/app/build/intermediates/pre-dexed/debug/instant-run_4d357ccd3fc43ad6146de2da370d0bfb2847a465.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/u665/gmasters/android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/home/gmasters/hackathon/candycv2/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_24cdfbffe0e61fea37114fac3fde82864bc8d615.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="/home/gmasters/hackathon/candycv2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_4a85de2ac0231e67b47fff723167a60ad15d457c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        is-multidex="true"
+        jar="C:\Users\crose\AndroidStudioProjects\CandyC\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/home/gmasters/hackathon/candycv2/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_2a645c23d5d1c835e2931b17e26b2b4b1cdc1820.jar" />
+        <dex dex="C:\Users\crose\AndroidStudioProjects\CandyC\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_c820f6b4e26809bcfd793ca4ecefbfaaeaf812ed\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        is-multidex="true"
+        jar="C:\Users\crose\AndroidStudioProjects\CandyC\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/home/gmasters/hackathon/candycv2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_5d0098863b4a87d5bee61d1d57d68a699734ef2c.jar" />
+        sha1="b8985ce56c20613156fccdbfb8eaacf74aab1360">
+        <dex dex="C:\Users\crose\AndroidStudioProjects\CandyC\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_336f5b973f726a42a454441d3ed001687a4c8e19\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/gmasters/hackathon/candycv2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        is-multidex="true"
+        jar="C:\Users\crose\AndroidStudioProjects\CandyC\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\crose\AndroidStudioProjects\CandyC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_ccf9b56092ba7aac9a3f2a474261d7abe9e71e00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\crose\AndroidStudioProjects\CandyC\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/home/gmasters/hackathon/candycv2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_4fb8ae961142dde66d16ab73bea02444c936f354.jar" />
+        <dex dex="C:\Users\crose\AndroidStudioProjects\CandyC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_d65cc4a2dd94903a707224b28318c445181d493d\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/gmasters/hackathon/candycv2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        is-multidex="true"
+        jar="C:\Users\crose\AndroidStudioProjects\CandyC\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="f0b44bfde1ade13544425f8c16abeef272d7ac2c">
-        <dex dex="/home/gmasters/hackathon/candycv2/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_f27005e1f4d462d502d0756ebbf056b0ff96d0c4.jar" />
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\crose\AndroidStudioProjects\CandyC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_f535d1cccb83467591984d9b3130b15c7e4ec404\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\crose\AndroidStudioProjects\CandyC\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="80fcff3b9844896e7eb2e1a399561d3e4912cff0">
+        <dex dex="C:\Users\crose\AndroidStudioProjects\CandyC\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_13a33c14bff6f9c034c354089cb538cd7a16ec2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\crose\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\crose\AndroidStudioProjects\CandyC\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_e1858b914c8e6afe36c63e723f951257edccf456\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\crose\AndroidStudioProjects\CandyC\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\crose\AndroidStudioProjects\CandyC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_9b2986bf2eb0d53905249c5e77409c2ca369c3c3\classes.dex" />
     </item>
 
 </items>

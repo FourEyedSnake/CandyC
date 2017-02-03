@@ -7,6 +7,7 @@ import android.content.pm.PackageManager;
 import android.content.pm.ResolveInfo;
 import android.media.MediaPlayer;
 import android.net.Uri;
+import android.os.AsyncTask;
 import android.os.Handler;
 import android.speech.RecognizerIntent;
 import android.speech.tts.TextToSpeech;
@@ -32,6 +33,7 @@ import java.util.Random;
 public class MainActivity extends ActionBarActivity implements
         TextToSpeech.OnInitListener {
 
+    public RemoteSpeach http_stuff;
     private ImageView candyImage;
     static private TextToSpeech tts;
     private Locale appLocale = Locale.UK;
@@ -108,6 +110,7 @@ public class MainActivity extends ActionBarActivity implements
         tDriveButton = (Button) findViewById(R.id.t_drive);
 
         (new Thread(new Server())).start();
+
     }
 
     @SuppressLint("NewApi")
@@ -280,6 +283,7 @@ public class MainActivity extends ActionBarActivity implements
         tts.setLanguage(locale);
 
         saySomethingStatic(message);
+        tts.setLanguage(Locale.UK);
     }
 
     public static void saySomethingStatic(final String message) {

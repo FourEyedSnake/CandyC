@@ -118,10 +118,10 @@ public class ServerConnection {
             //writeResponse(badMethod);
             //return false;
         }
-        if (!resource.equals(Server.SpeakResource)) {
-            writeResponse(notFound);
-            return false;
-        }
+   //     if (!resource.equals(Server.SpeakResource)) {
+   //         writeResponse(notFound);
+    //        return false;
+    //    }
 
         return true;
     }

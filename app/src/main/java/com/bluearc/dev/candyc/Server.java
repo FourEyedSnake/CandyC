@@ -1,39 +1,31 @@
 package com.bluearc.dev.candyc;
 
 
+import android.os.AsyncTask;
 import android.util.Log;
 
+import org.json.JSONException;
+import org.json.JSONObject;
+
 import java.io.IOException;
-import java.net.ServerSocket;
-import java.net.Socket;
-import java.sql.Connection;
+
+
 
 public class Server implements Runnable {
-    final static String SpeakResource = "/speak";
+    //final static String SpeakResource = "/speak";
     private boolean doStuff;
+    private RemoteSpeach http_stuff;
 
     Server() {
         doStuff  = true;
     }
 
-    private final int port = 2648;
-
-    private void Listen() throws IOException {
-        ServerSocket server = new ServerSocket(port);
-        //server.setSoTimeout(5000);
+    private void Listen() throws IOException, InterruptedException {
 
         while (doStuff) {
-            Log.d("server", "waiting");
-            Socket socket = server.accept();
-            Log.d("server", "connected");
-
-            ServerConnection conn = new ServerConnection(socket);
-            conn.Serve();
-            Log.d("server", "close");
-            socket.close();
+            Thread.sleep(2000);
+            new RemoteSpeach().execute("http://192.168.1.167:5000/api/get_next_speak_item");
         }
-
-        server.close();
     }
 
     @Override
@@ -45,5 +37,9 @@ public class Server implements Runnable {
         catch (IOException e){
             Log.e("wellthen", "yes");
         }
+        catch (InterruptedException e) {
+            Log.e("bestbeoff", "yes");
+        }
     }
 }
+

@@ -1,4 +1,7 @@
-#Fri Oct 14 18:05:03 BST 2016
-base.0=/home/gmasters/hackathon/candycv2/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/home/gmasters/hackathon/candycv2/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+#Fri Feb 03 15:52:31 GMT 2017
+base.0=C\:\\Users\\crose\\AndroidStudioProjects\\CandyC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_336f5b973f726a42a454441d3ed001687a4c8e19
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\crose\\AndroidStudioProjects\\CandyC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_13a33c14bff6f9c034c354089cb538cd7a16ec2a\\classes.dex
+base.1=C\:\\Users\\crose\\AndroidStudioProjects\\CandyC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_13a33c14bff6f9c034c354089cb538cd7a16ec2a
+file.0=C\:\\Users\\crose\\AndroidStudioProjects\\CandyC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_336f5b973f726a42a454441d3ed001687a4c8e19\\classes.dex

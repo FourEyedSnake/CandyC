@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/raw/moo.wav",
-        "source": "/home/gmasters/hackathon/candycv2/app/src/main/res/raw/moo.wav"
+        "merged": "C:\\Users\\crose\\AndroidStudioProjects\\CandyC\\app\\build\\intermediates\\res\\merged\\debug\\raw\\moo.wav",
+        "source": "C:\\Users\\crose\\AndroidStudioProjects\\CandyC\\app\\src\\main\\res\\raw\\moo.wav"
     },
     {
-        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/raw/groan.mp3",
-        "source": "/home/gmasters/hackathon/candycv2/app/src/main/res/raw/groan.mp3"
+        "merged": "C:\\Users\\crose\\AndroidStudioProjects\\CandyC\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hound.mp3",
+        "source": "C:\\Users\\crose\\AndroidStudioProjects\\CandyC\\app\\src\\main\\res\\raw\\hound.mp3"
     },
     {
-        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/raw/hound.mp3",
-        "source": "/home/gmasters/hackathon/candycv2/app/src/main/res/raw/hound.mp3"
+        "merged": "C:\\Users\\crose\\AndroidStudioProjects\\CandyC\\app\\build\\intermediates\\res\\merged\\debug\\raw\\groan.mp3",
+        "source": "C:\\Users\\crose\\AndroidStudioProjects\\CandyC\\app\\src\\main\\res\\raw\\groan.mp3"
     },
     {
-        "merged": "/home/gmasters/hackathon/candycv2/app/build/intermediates/res/merged/debug/raw/sheep.wav",
-        "source": "/home/gmasters/hackathon/candycv2/app/src/main/res/raw/sheep.wav"
+        "merged": "C:\\Users\\crose\\AndroidStudioProjects\\CandyC\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sheep.wav",
+        "source": "C:\\Users\\crose\\AndroidStudioProjects\\CandyC\\app\\src\\main\\res\\raw\\sheep.wav"
     }
 ]
